@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    text-align: center;
+}
+#logo{
+    width: 250px;
+    height: auto;
+}
+#menu-bar{
+    text-align: center;
+    background-color: rgb(23, 143, 103);
+}
+#menu-bar li{
+    display: inline-block;
+    padding: 10px 15px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+#container{
+    text-align: center;
+    padding: 50px 10px;
+}
+.stiky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
